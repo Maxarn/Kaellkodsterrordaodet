@@ -1,8 +1,0 @@
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\obj\Debug\netcoreapp3.0\Motarbetesfunktionalitet.csprojAssemblyReference.cache
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\obj\Debug\netcoreapp3.0\Motarbetesfunktionalitet.AssemblyInfoInputs.cache
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\obj\Debug\netcoreapp3.0\Motarbetesfunktionalitet.AssemblyInfo.cs
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\bin\Debug\netcoreapp3.0\Motarbetesfunktionalitet.deps.json
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\bin\Debug\netcoreapp3.0\Motarbetesfunktionalitet.dll
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\bin\Debug\netcoreapp3.0\Motarbetesfunktionalitet.pdb
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\obj\Debug\netcoreapp3.0\Motarbetesfunktionalitet.dll
-C:\Users\Max\source\repos\Källkodsterrordådet\Motarbetesfunktionalitet\obj\Debug\netcoreapp3.0\Motarbetesfunktionalitet.pdb
