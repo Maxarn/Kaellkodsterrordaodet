@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Källkodsterrordådet", "Källkodsterrordådet\Källkodsterrordådet.csproj", "{008F9003-3A60-4946-8B9A-203F5F06BE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motarbetesfunktionalitet", "Motarbetesfunktionalitet\Motarbetesfunktionalitet.csproj", "{BA029E13-DA30-4A2F-B1B5-A64372BA6566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008F9003-3A60-4946-8B9A-203F5F06BE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008F9003-3A60-4946-8B9A-203F5F06BE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008F9003-3A60-4946-8B9A-203F5F06BE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008F9003-3A60-4946-8B9A-203F5F06BE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA029E13-DA30-4A2F-B1B5-A64372BA6566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA029E13-DA30-4A2F-B1B5-A64372BA6566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA029E13-DA30-4A2F-B1B5-A64372BA6566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA029E13-DA30-4A2F-B1B5-A64372BA6566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB68DCE3-5C48-40CF-BE07-E6A94B57E4B5}
+	EndGlobalSection
+EndGlobal
